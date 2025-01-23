@@ -38,8 +38,8 @@ First, clone the repository and install dependencies:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd my-app
+git clone https://github.com/nyi-nyi-phone-hlaing/vite-react-template.git
+cd vite-react-template
 
 # Install dependencies
 npm install
@@ -94,9 +94,7 @@ vite-react-template/
 ├── public/               # Static assets
 ├── src/                  # Source code
 │   ├── assets/           # Images, fonts, etc.
-│   ├── components/       # Reusable components
 │   ├── pages/            # Page components
-│   ├── store/            # State management
 configurations
 │   ├── App.jsx           # Main app component
 │   └── main.jsx          # React entry point
